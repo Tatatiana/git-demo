@@ -1,1 +1,3 @@
 Just to try something.
+
+This added after 'git add'.

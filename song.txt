@@ -6,4 +6,8 @@ on this their chosen battle field
 Form the lines
 Shield by shield
  
-this is added to add
+just to add something
+to amend commit
+ 
+try the same with bash
+
